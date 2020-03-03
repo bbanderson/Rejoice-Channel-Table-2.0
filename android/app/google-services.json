@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "884955870864",
+    "firebase_url": "https://rejoicechanneltablever2.firebaseio.com",
+    "project_id": "rejoicechanneltablever2",
+    "storage_bucket": "rejoicechanneltablever2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884955870864:android:add86fb0dde0ed9b334a15",
+        "android_client_info": {
+          "package_name": "com.bbanpro.setting_table"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884955870864-h485clomgcvbn3cru26aqd4127cie0bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7UwqNvJQRp7b-F2RmN7L_PbNXNYbux_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884955870864-h485clomgcvbn3cru26aqd4127cie0bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
