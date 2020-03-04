@@ -160,6 +160,38 @@ class _ModifyChannelState extends State<ModifyChannel> {
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: <Widget>[
+//                  Column(
+//                    mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+//                    crossAxisAlignment: CrossAxisAlignment.center,
+//                    children: <Widget>[
+//                      FlatButton(child: Text('0')),
+//                      FlatButton(child: Text('1')),
+//                      FlatButton(child: Text('2')),
+//                      FlatButton(child: Text('3')),
+//                      FlatButton(child: Text('4')),
+//                      FlatButton(child: Text('5')),
+//                      FlatButton(child: Text('6')),
+//                      FlatButton(child: Text('7')),
+//                      FlatButton(child: Text('8')),
+//                      FlatButton(child: Text('9')),
+//                      FlatButton(child: Text('10')),
+//                      FlatButton(child: Text('11')),
+//                      FlatButton(child: Text('12')),
+//                      FlatButton(child: Text('13')),
+//                      FlatButton(child: Text('14')),
+//                      FlatButton(child: Text('15')),
+//                      FlatButton(child: Text('16')),
+//                      FlatButton(child: Text('17')),
+//                      FlatButton(child: Text('18')),
+//                      FlatButton(child: Text('19')),
+//                      FlatButton(child: Text('20')),
+//                      FlatButton(child: Text('21')),
+//                      FlatButton(child: Text('22')),
+//                      FlatButton(child: Text('23')),
+//                      FlatButton(child: Text('24')),
+//                      FlatButton(child: Text('25')),
+//                    ],
+//                  ),
                   Column(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     children: <Widget>[
